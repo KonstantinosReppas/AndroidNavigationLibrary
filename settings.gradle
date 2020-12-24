@@ -1,0 +1,3 @@
+include ':app'
+include ':navigationcomponent'
+rootProject.name = "AndroidNavigationLibrary"
